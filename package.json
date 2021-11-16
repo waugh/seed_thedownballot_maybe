@@ -1,0 +1,26 @@
+{
+  "name": "thedownballot_kiss",
+  "version": "1.0.0",
+  "description": "A try at initalizing the website of thedownballot.",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waugh/seed_thedownballot_maybe.git"
+  },
+  "keywords": [
+    "express",
+    "react"
+  ],
+  "author": "volunteers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waugh/seed_thedownballot_maybe/issues"
+  },
+  "homepage": "https://github.com/waugh/seed_thedownballot_maybe#readme"
+}
