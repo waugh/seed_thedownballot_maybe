@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/waugh/seed_thedownballot_maybe/issues"
   },
-  "homepage": "https://github.com/waugh/seed_thedownballot_maybe#readme"
+  "homepage": "https://github.com/waugh/seed_thedownballot_maybe#readme",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
 }

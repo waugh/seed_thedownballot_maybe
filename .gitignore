@@ -1,6 +1,7 @@
 # Jack
 tmp
 log
+scratch
 
 # create-react-app:
 # dependencies
@@ -130,3 +131,4 @@ dist
 
 # TernJS port file
 .tern-port
+

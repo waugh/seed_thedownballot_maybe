@@ -5,5 +5,6 @@ at the top level.
 
 ```
 npm init
+npm install typescript --save-dev
 
 ```
